@@ -1,0 +1,18 @@
+.selectBreed {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+}
+
+
+
+select {
+  align-items: center;
+  height: 25px;
+  min-width: 200px;
+  padding: 0 5px 0 5px;
+  border: 1px solid #cccccc;
+  border-radius: 3px;
+  margin: 0 10px 0 10px;
+  color: #333333;
+}

@@ -1,0 +1,27 @@
+.selectLists {
+  width: 95%;
+  margin: auto;
+}
+
+.select {
+  display: block;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.breed-button {
+  color: #fff;
+  background-color: blue;
+	border: 2px solid blue;
+	transition: 0.5s;
+  padding: 0 20px 0 20px;
+}
+.breed-button:hover {
+	color: blue;
+	background: #fff;
+}
+
+.list {
+  display: inline-block;
+  margin-bottom: 20px;
+}
